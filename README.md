@@ -1,3 +1,1 @@
-Testing....2
-
-![](https://viewcount.soorajrao.in/api/test?text=Views)
+![](https://viewcount.soorajrao.in/api/quiz-app?text=Views)
